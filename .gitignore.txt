@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Dataset
+data/
+dataset/
+
+# Generated models and features
+outputs/models/
+outputs/features/
+
+# Machine-specific files
+outputs/results/*.npy
+
+# Jupyter Notebook cache
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
